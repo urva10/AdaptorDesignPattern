@@ -1,0 +1,2 @@
+# AdaptorDesignPattern
+StructuralDesignPattern
